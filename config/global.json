@@ -1,0 +1,14 @@
+{
+  "global": {
+    "parseVersion": "1.4.2"
+  },
+  "applications": {
+    "Congoer": {
+      "applicationId": "ON6k8VtzM2irtI46aPZl0OpK330LgSRm4naMwEbl",
+      "masterKey": "yQmMj0Pbs357ZWfirIMIbwyf0mRQT3VAuibXcj1A"
+    },
+    "_default": {
+      "link": "Congoer"
+    }
+  }
+}
